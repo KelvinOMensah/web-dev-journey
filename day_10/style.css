@@ -1,0 +1,30 @@
+body {
+  background-color: cornsilk;
+}
+
+#p1 {
+  color: red;
+}
+
+#p2 {
+  color: green;
+}
+
+#p3 {
+  color: purple;
+}
+
+#p4 {
+  color: purple;
+}
+
+#h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p5 {
+  color: purple;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1;
+}
